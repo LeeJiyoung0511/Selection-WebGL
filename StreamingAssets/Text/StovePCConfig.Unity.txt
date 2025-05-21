@@ -1,0 +1,8 @@
+{
+	"Env": "live",
+	"AppKey": "74ed8c98f7bb0d005f6b54510ff3a9d4c9b8ae18ff12a92c05ecb1a2e47d8ea0",
+	"AppSecret": "6dbfc8d5ca0d5ce9f208dc71df438f27830bb8ff7715d662b06a1c18b894b60cfd29a1077a1350587b2a914b51a6636c",
+	"GameId": "GM-2190-68244122_IND",
+	"LogLevel": 4,
+	"LogPath": "C:\Users\이지영\Desktop\Study\Selection\Logs"
+}
